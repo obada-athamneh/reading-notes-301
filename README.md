@@ -11,7 +11,7 @@
  Table   | read
 ---------|---------
  1       | [read01](https://obada-athamneh.github.io/reading-notes-301/read1)
- 2       | 
+ 2       | [read02](https://obada-athamneh.github.io/reading-notes-301/read02)
  3       |
  4       |
  5       |
