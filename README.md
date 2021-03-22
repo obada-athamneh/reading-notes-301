@@ -12,7 +12,7 @@
 ---------|---------
  1       | [read01](https://obada-athamneh.github.io/reading-notes-301/read1)
  2       | [read02](https://obada-athamneh.github.io/reading-notes-301/read02)
- 3       |
+ 3       |[read03](https://obada-athamneh.github.io/reading-notes-301/read03)
  4       |
  5       |
  6       |
