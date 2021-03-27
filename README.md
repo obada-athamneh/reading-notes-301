@@ -15,7 +15,7 @@
  3       |[read03](https://obada-athamneh.github.io/reading-notes-301/read03)
  4       |[read04](https://obada-athamneh.github.io/reading-notes-301/read04)
  5       |[read05](https://obada-athamneh.github.io/reading-notes-301/read05)
- 6       |
+ 6       |[read06](https://obada-athamneh.github.io/reading-notes-301/read06)
  7       |
  8       |
  9       |
