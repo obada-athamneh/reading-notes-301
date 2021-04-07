@@ -24,4 +24,4 @@
  12      |[read12](https://obada-athamneh.github.io/reading-notes-301/read12)
  13      |[read13](https://obada-athamneh.github.io/reading-notes-301/read13)
  14      |[read14](https://obada-athamneh.github.io/reading-notes-301/read14)
- 15      |
+ 15      |[read15](https://obada-athamneh.github.io/reading-notes-301/read15)
